@@ -9460,10 +9460,22 @@
       "links": {},
       "address": "0xBeb8Ae245855F1928A5A5eC47F815A8E3c801594",
       "transactionHash": "0xc601b2197d592b35ad8b6d63bad3263be14a6f420c52525a958c0789e22dbbe7"
+    },
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xC48f97dF26Eb6495A00761125cE700f0382580b0",
+      "transactionHash": "0x2e3a918e82aee8d17ca3570bc694b7f643f9b6d3c754344fd1468f321dd31d27"
+    },
+    "11155111": {
+      "events": {},
+      "links": {},
+      "address": "0x624Cc1Bc294e16FB6F3764c5a312AeD0a680D45a",
+      "transactionHash": "0xdf9240b18cebf0a16996a69fd261e90b61d289470be21491159634f05ff1f987"
     }
   },
   "schemaVersion": "3.4.13",
-  "updatedAt": "2024-02-20T17:59:24.563Z",
+  "updatedAt": "2024-04-14T19:05:01.858Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
